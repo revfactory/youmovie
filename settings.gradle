@@ -1,2 +1,3 @@
-rootProject.name = 'youmovie'
+rootProject.name = "youmovie"
 
+include ':youmovie-ui'
